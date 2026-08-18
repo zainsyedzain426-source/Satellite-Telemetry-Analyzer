@@ -53,21 +53,21 @@ The project generates:
 
 ## 📁 Project Structure
 
-📁 Satellite-Telemetry-Analyzer/
+ Satellite-Telemetry-Analyzer/
 │
-├── 📁 data/
+├──  data/
 │   └── 📄 telemetry.csv
 │
-├── 📁 images/
-│   ├── 📊 battery_vs_time.png
-│   ├── 🌡️ temperature_vs_time.png
-│   ├── 🚀 altitude_vs_time.png
-│   ├── 🚀 velocity_vs_time.png
-│   ├── 📈 altitude_vs_velocity.png
-│   └── ⚠️ temperature_anomalies.png
+├──  images/
+│   ├──  battery_vs_time.png
+│   ├── ️ temperature_vs_time.png
+│   ├──  altitude_vs_time.png
+│   ├──  velocity_vs_time.png
+│   ├──  altitude_vs_velocity.png
+│   └──  temperature_anomalies.png
 │
-├── 📁 reports/
-│   └── 📄 mission_report.txt
+├──  reports/
+│   └──  mission_report.txt
 │
 ├── 🐍 telemetry.py
 ├── 📖 README.md
