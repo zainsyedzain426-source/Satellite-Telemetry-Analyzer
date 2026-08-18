@@ -1,0 +1,12 @@
+========================================
+       SATELLITE TELEMETRY REPORT
+========================================
+
+Records Processed     : 10
+Average Battery       : 93.50 %
+Minimum Battery       : 89.0 %
+Maximum Temperature   : 55.0 °C
+Weak Signal Events    : 2
+Total Anomalies       : 3
+
+========================================

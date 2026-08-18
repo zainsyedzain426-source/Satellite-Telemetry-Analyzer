@@ -1,0 +1,11 @@
+Time,Battery,Temperature,Altitude,Velocity,Signal
+00:00,98,22,400,7.80,Strong
+00:01,97,23,400,7.80,Strong
+00:02,96,23,401,7.81,Strong
+00:03,95,24,401,7.82,Strong
+00:04,94,24,402,7.82,Strong
+00:05,93,25,402,7.83,Moderate
+00:06,92,26,403,7.83,Moderate
+00:07,91,27,403,7.84,Moderate
+00:08,90,55,404,7.84,Weak
+00:09,89,29,404,7.85,Weak
