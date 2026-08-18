@@ -56,7 +56,7 @@ The project generates:
  Satellite-Telemetry-Analyzer/
 │
 ├──  data/
-│   └── 📄 telemetry.csv
+│   └──  telemetry.csv
 │
 ├──  images/
 │   ├──  battery_vs_time.png
@@ -69,10 +69,10 @@ The project generates:
 ├──  reports/
 │   └──  mission_report.txt
 │
-├── 🐍 telemetry.py
-├── 📖 README.md
-├── 📦 requirements.txt
-└── 🚫 .gitignore
+├──  telemetry.py
+├──  README.md
+├──  requirements.txt
+└──  .gitignore
 
 ## 🛠️ Technologies
 
